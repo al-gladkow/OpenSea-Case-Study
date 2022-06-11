@@ -10,13 +10,13 @@
 
 ## Business Activities
 
-* What specific financial problem is the company or project trying to solve?
+* Prior to OpenSea, an NFT creator had to host a website to display each of their pieces, handle the transfer of the NFT to the buyer after a sale, and every action inbetween. The new platform allowed NFT creators to list their pieces for sale in an open-auction style immediately after development and provided in-built support for different wallets, currencies, virtual displays.
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+* OpenSea's intended customers make up three non-mutually exclusive categories: NFT creators, collectors, and traders who bring in revenue for the company through a 2.5% fee on NFT sales. While it is difficult to guage the number of these customers exist worldwide, an important note is that the value transferred through NFT marketplaces peaked in April 2022 at impressive total of just over $2.5B.
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* Being the longest operating and most well known of all NFT marketplaces, OpenSea's brand is familiar to anyone who has researched the NFT space. Especially important to a storefront or catalog product such as itself, OpenSea's dominance (reaching 98% at times)of the NFT marketplace marketshare makes it uniquely attractive for token buyers and sellers alike. Its solid userbase provides a huge number of NFTs for buyers choose from as well as plenty of eager bidders for those who have a piece to sell.
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
+* To add useful information to their NFT catalog, OpenSea uses software provided by Alchemy - another blockchain power player. Alchemy provides easy access to blockchain data so that OpenSea can display stats about an NFT such as its previous owners and who the piece was created by.
 
 
 ## Landscape
