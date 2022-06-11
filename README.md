@@ -46,3 +46,15 @@
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+## Sources
+
+* [Announcement - Bringing on additional strategic investors to OpenSea](https://opensea.io/blog/announcements/bringing-on-additional-strategic-investors-to-opensea/)
+ 
+* [Future Of Crypto And Blockchain: Fintech 50 2022, The](https://www.forbes.com/sites/ninabambysheva/2022/06/07/the-future-of-crypto-and-blockchain-fintech-50-2022/?sh=1a60b09960cc)
+
+* [How OpenSea Captured 97% Of The NFT Market](https://tokenist.com/how-opensea-captured-97-of-the-nft-market/)
+
+* [NFT Marketplaces Monthly Value Transferred By Platform](https://dune.com/queries/73722/148292)
+
+* [NFT Marketplaces Monthly Value Transferred By Platform As Percent](https://dune.com/queries/73722/148298)
