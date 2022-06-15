@@ -15,9 +15,9 @@
 
 * OpenSea's intended customers make up three non-mutually exclusive categories: NFT creators, collectors, and traders who bring in revenue for the company through a **2.5%** fee on NFT sales. While it is difficult to guage the number of these customers exist worldwide, an important note is that the value transferred through NFT marketplaces peaked in April 2022 at impressive total of just over **$2.5B**.
 
-* Being the longest operating and most well known of all NFT marketplaces, OpenSea's brand is familiar to anyone who has researched the NFT space. Especially important to a storefront or catalog product such as itself, OpenSea's dominance (reaching **98%** at times)of the NFT marketplace marketshare makes it uniquely attractive for token buyers and sellers alike. Its solid userbase provides a huge number of NFTs for buyers choose from as well as plenty of eager bidders for those who have a piece to sell.
+* Being the longest operating and most well known of all NFT marketplaces, OpenSea's brand is familiar to anyone who has researched the NFT space. Especially important to a storefront or catalog product such as itself, OpenSea's wide audience and broad capture of the NFT marketplace marketshare makes it uniquely attractive for token buyers and sellers alike. Its solid userbase provides a huge number of NFTs for buyers choose from as well as plenty of eager bidders for those who have a piece to sell.
 
-* OpenSea allows users to list tokens that reside on one of their supported blockchains: Etherium, Polygon, Klaytn, and Solana. To add useful information to their NFT catalog, OpenSea also uses software provided by Alchemy - another blockchain power player. Alchemy provides easy access to blockchain data so that OpenSea can display stats about an NFT such as its previous owners and who the piece was created by.
+* OpenSea allows users to list tokens that reside on one of their supported blockchains: Etherium, Polygon, Klaytn, and Solana [6]. To add useful information to their NFT catalog, OpenSea also uses software provided by Alchemy - another blockchain power player. Alchemy provides easy access to blockchain data so that OpenSea can display stats about an NFT such as its previous owners and the artist behind the work [2].
 
 
 ## Landscape
@@ -31,14 +31,9 @@
 
 ## Results
 
-* 
+* The OpenSea's rise to NFT domination is a testament to the strong leadership and patient management of its founders Finzer and Atallah. The company handled its first few years with just seven employees up until the end of 2020 [3]. This allowed the company to survive on capital and silently fine tune its platform for the wave of traffic which flooded its servers as NFTs gained paved their way into pop-culture during the following year.
 
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-* How is your company performing relative to competitors in the same domain?
-
+* Since inception, OpenSea has been able to capture an impressive share of the NFT resale and first-mint market. When considering the value of NFTs transferred between users across all NFT marketplaces, OpenSea *rarely* provides **less** than **50%** of the total volume at any point since January 2020 [4]. Even more impressive, during certain months their contribution reaches over **90%** and currently stands at a staggering **99.8%** [4]. "While OpenSea processed $94.8 million in NFT sales volume for the entirety of 2020, it is on track to surpass $27.5 billion in volume for 2021, a 30,000% increase year over year" [3].
 
 ## Recommendations
 
@@ -58,8 +53,8 @@
 
 3. [How OpenSea Captured 97% Of The NFT Market](https://tokenist.com/how-opensea-captured-97-of-the-nft-market/)
 
-4. [NFT Marketplaces Monthly Value Transferred By Platform](https://dune.com/queries/73722/148292)
+4. [NFT Marketplaces Monthly Value Transferred By Platform As Percent](https://dune.com/queries/73722/148298)
 
-5. [NFT Marketplaces Monthly Value Transferred By Platform As Percent](https://dune.com/queries/73722/148298)
+5. [NFT Marketplaces Monthly Value Transferred By Platform](https://dune.com/queries/73722/148292)
 
 6. [What Blockchains does OpenSea support?](https://support.opensea.io/hc/en-us/articles/4404027708051-Which-blockchains-does-OpenSea-support) 
