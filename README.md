@@ -3,17 +3,17 @@
 
 ## Overview & Origin
 
-* OpenSea was founded in 2017 by Devin Finzer and Alex Atallah.
+* OpenSea was founded in 2017 by Devin Finzer and Alex Atallah [2].
 
-* The founders socialized on Discord communities along with fellow early adopters of non-fungible tokens where they noticed a need for a robust and user-friendly marketplace. Shortly after the creation of *CryptoKitties* - an early, popular digital asset project - Finzer and Atallah set out to create OpenSea. Inspired by reaction of the crypto-community's reaction to *CryptoKitties*, they knew they had to create a marketplace where members of their Discord communities and future NFT enthusiasts could openly exchange their coveted digital possessions.
+* The founders socialized on Discord communities along with fellow early adopters of non-fungible tokens where they noticed a need for a robust and user-friendly marketplace. Shortly after the creation of *CryptoKitties* - an early, popular digital asset project - Finzer and Atallah set out to create OpenSea [1]. Inspired by reaction of the crypto-community's reaction to *CryptoKitties*, they knew they had to create a marketplace where members of their Discord communities and future NFT enthusiasts could openly exchange their coveted digital possessions[1].
 
-* OpenSea raised **$2.1M** in 2018 during a pre-seed round hosted by Y Combinator. Later in 2021, the company raised another **$23M** from Andreessen Horowiz, Mark Cuban, and other investors during a Series A round.
+* OpenSea raised **$2.1M** in 2018 during a pre-seed round hosted by Y Combinator [1]. To date, the company raised a total of **$423M** from Andreessen Horowiz, Mark Cuban, and other investors [2].
 
 ## Business Activities
 
 * Prior to OpenSea, an NFT creator had to host a website to display each of their pieces, handle the transfer of the NFT to the buyer after a sale, and every action inbetween. The revolutionary platform allowed NFT creators to list their pieces for sale in an open-auction style immediately after development and provided in-built support for different wallets, currencies, and virtual displays.
 
-* OpenSea's intended customers make up three non-mutually exclusive categories: NFT creators, collectors, and traders who bring in revenue for the company through a **2.5%** fee on NFT sales. While it is difficult to guage the number of these customers exist worldwide, an important note is that the value transferred through NFT marketplaces peaked in April 2022 at impressive total of just over **$2.5B**.
+* OpenSea's intended customers make up three categories: NFT creators, collectors, and traders who bring in revenue for the company through a **2.5%** fee on NFT sales. While it is difficult to guage the number of these customers exist worldwide, an important note is that the value transferred through NFT marketplaces peaked in April 2022 at impressive total of just over **$2.5B** [5].
 
 * Being the longest operating and most well known of all NFT marketplaces, OpenSea's brand is familiar to anyone who has researched the NFT space. Especially important to a storefront or catalog product such as itself, OpenSea's wide audience and broad capture of the NFT marketplace marketshare makes it uniquely attractive for token buyers and sellers alike. Its solid userbase provides a huge number of NFTs for buyers choose from as well as plenty of eager bidders for those who have a piece to sell.
 
@@ -37,13 +37,11 @@
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* Although OpenSea has business metrics that few companies can rival, the platform is not without its weak points. The competing marketplaces are still in their infacy, but with plenty of capital behind them, the competitors may dethrone OpenSea should it get complacent.
 
-* Why do you think that offering this product or service would benefit the company?
+* High Etherium gas fees and the 2.5% commission that OpenSea takes may push some customers to other platforms which have no fees and offer other products on other blockchains products. OpenSea has recently added more chains as well, but some are still being built out, and ETH-chained NFTs still make up a large portion of their sales.
 
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+* Another reason customers may look to other marketplaces is the issue of centralization. OpenSea's platform is still completely centralized - meaning their is no ability for users to dictate its policies or corporate actions [3]. This might seem like an unusual request of the user, but blockchain enthusiasts believe this aspect is a key component to blockchain products.
 
 ## Sources
 
