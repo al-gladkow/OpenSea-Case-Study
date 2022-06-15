@@ -1,5 +1,10 @@
+![OpenSea - The World's First & Largest NFT Marketplace](https://lever-client-logos.s3.us-west-2.amazonaws.com/01451aa0-6bf3-468e-8caf-07c080094d9f-1625604822206.png "OpenSea Logo")
+
+<br>
 
 # OpenSea - The World's First & Largest NFT Marketplace
+
+<br>
 
 ## Overview & Origin
 
