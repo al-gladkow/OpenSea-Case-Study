@@ -1,8 +1,12 @@
-[![OpenSea - The World's First & Largest NFT Marketplace](./img/logo.png "OpenSea Logo")](https://docs.opensea.io/docs/logos)
+[![The World's First & Largest NFT Marketplace](./img/logo.png "OpenSea Logo")](https://docs.opensea.io/docs/logos)
 
 <br>
 
-# OpenSea - The World's First & Largest NFT Marketplace
+<div align=middle>
+
+# OpenSea's NFT Empire
+
+</div>
 
 <br>
 
