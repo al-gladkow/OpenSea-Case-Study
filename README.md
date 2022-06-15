@@ -1,4 +1,4 @@
-![OpenSea - The World's First & Largest NFT Marketplace](./img/logo.jpg "OpenSea Logo")
+[![OpenSea - The World's First & Largest NFT Marketplace](./img/logo.png "OpenSea Logo")](https://docs.opensea.io/docs/logos)
 
 <br>
 
